@@ -1,0 +1,2 @@
+# mnemomath
+Math mnemotechnics.
